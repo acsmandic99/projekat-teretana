@@ -20,5 +20,14 @@ namespace Teretana_Radnik
         {
             InitializeComponent();
         }
+
+        private void RadioButton_Click(object sender, RoutedEventArgs e)
+        {
+            var radioButton = sender as RadioButton;
+            if (radioButton != null && radioButton.Command != null)
+            {
+                radioButton.Command.Execute(radioButton.CommandParameter);
+            }
+        }
     }
 }

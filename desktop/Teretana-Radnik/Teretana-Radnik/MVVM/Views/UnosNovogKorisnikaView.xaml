@@ -1,0 +1,84 @@
+﻿<UserControl x:Class="Teretana_Radnik.MVVM.Views.UnosNovogKorisnikaView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Teretana_Radnik.MVVM.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Margin="20 30 0 0" HorizontalAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel   Grid.Row="0" Grid.Column="0">
+            <TextBlock>Ime:</TextBlock>
+            <TextBox Margin="0 5 100 0" FontSize="16" HorizontalAlignment="Stretch" />
+        </StackPanel>
+        <StackPanel   Grid.Row="0" Grid.Column="1">
+            <TextBlock>Prezime:</TextBlock>
+            <TextBox Margin="0 5 70 0" FontSize="16" HorizontalAlignment="Stretch" />
+        </StackPanel>
+
+        <StackPanel   Grid.Row="1" Grid.Column="0">
+            <TextBlock>Paket:</TextBlock>
+            <ComboBox Foreground="#22202f" Margin="0 5 100 0" FontSize="16" HorizontalAlignment="Stretch">
+                <ComboBoxItem>
+                    <TextBlock Foreground="#22202f">Jutarnji</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock Foreground="#22202f">Celodnevni</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock Foreground="#22202f">Celodnevni + Sauna</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock Foreground="#22202f">Grupni</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock Foreground="#22202f">Grupni + teretana</TextBlock>
+                </ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel   Grid.Row="1" Grid.Column="1">
+            <TextBlock>Nacin uplate:</TextBlock>
+            <RadioButton IsChecked="True" Margin="0 10 0 0">
+                Gotovina
+            </RadioButton>
+            <RadioButton Margin="0 10 0 0" Content="Kartica"/>
+        </StackPanel>
+
+
+        <StackPanel   Grid.Row="2" Grid.Column="0">
+            <TextBlock>Broj meseci:</TextBlock>
+            <ComboBox Foreground="#22202f" Margin="0 5 100 0" FontSize="16" HorizontalAlignment="Stretch">
+                <ComboBoxItem>
+                    <TextBlock Foreground="#22202f">1</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock Foreground="#22202f">2</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock Foreground="#22202f">3</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock Foreground="#22202f">6</TextBlock>
+                </ComboBoxItem>
+                <ComboBoxItem>
+                    <TextBlock Foreground="#22202f">12</TextBlock>
+                </ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Bottom" Grid.Row="4" Grid.Column="0">
+            <TextBlock>Ukupan iznos:</TextBlock>
+            <TextBlock>0</TextBlock>
+        </StackPanel>
+        <Button Grid.Row="4" Grid.Column="1" Margin="30 50 10 10">Kreiraj clana</Button>
+    </Grid>
+</UserControl>

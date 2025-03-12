@@ -1,0 +1,1 @@
+﻿public enum NacinUplate { KARTICA,GOTOVINA};
