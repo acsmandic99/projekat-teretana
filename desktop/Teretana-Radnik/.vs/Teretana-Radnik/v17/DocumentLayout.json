@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\models\\uplata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\models\\uplata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\models\\trening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\models\\trening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\models\\clan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\models\\clan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\models\\clanstvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\models\\clanstvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\views\\skenirajkarticuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\views\\skenirajkarticuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\viewmodels\\skenirajkarticuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\viewmodels\\skenirajkarticuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\views\\skenirajkarticuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\views\\skenirajkarticuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\viewmodels\\clanstvolistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\viewmodels\\clanstvolistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\viewmodels\\clanstvoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\viewmodels\\clanstvoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\models\\paket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\models\\paket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -43,28 +87,12 @@
       "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\views\\unosnovogkorisnikaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\viewmodels\\skenirajkarticuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\viewmodels\\skenirajkarticuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\viewmodels\\unosnovogkorisnikaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\viewmodels\\unosnovogkorisnikaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\views\\uplateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\views\\uplateview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\views\\skenirajkarticuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\views\\skenirajkarticuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\viewmodels\\clanstvolistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\viewmodels\\clanstvolistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\viewmodels\\clanstvoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\viewmodels\\clanstvoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\stores\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,28 +107,8 @@
       "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\theme\\textblockstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\models\\clanstvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\models\\clanstvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\models\\clan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\models\\clan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\models\\uplata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\models\\uplata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\models\\paket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\models\\paket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\mvvm\\views\\skenirajkarticuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|solutionrelative:teretana-radnik\\mvvm\\views\\skenirajkarticuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B8135E8-60B9-4E11-85A9-FB7B25F69DDC}|Teretana-Radnik\\Teretana-Radnik.csproj|c:\\users\\korisnik\\documents\\teretana projekat\\desktop\\teretana-radnik\\teretana-radnik\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -122,11 +130,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 26,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "Teretana-Radnik\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\Services\\ApiService.cs",
+              "RelativeToolTip": "Teretana-Radnik\\Services\\ApiService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:30:22.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trening.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Models\\Trening.cs",
+              "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Models\\Trening.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Models\\Trening.cs",
+              "RelativeToolTip": "Teretana-Radnik\\MVVM\\Models\\Trening.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T18:23:33.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MakeViewCommand.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Commands\\MakeViewCommand.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Commands\\MakeViewCommand.cs",
@@ -134,12 +168,11 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Commands\\MakeViewCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:05:06.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:05:06.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "MakeUplateCommand.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Commands\\MakeUplateCommand.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Commands\\MakeUplateCommand.cs",
@@ -147,12 +180,11 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Commands\\MakeUplateCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:04:23.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:04:23.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "MakeUnosNovogKorisnikaCommand.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Commands\\MakeUnosNovogKorisnikaCommand.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Commands\\MakeUnosNovogKorisnikaCommand.cs",
@@ -160,12 +192,11 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Commands\\MakeUnosNovogKorisnikaCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:50:31.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T15:50:31.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "MakeSkenirajKarticuCommand.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Commands\\MakeSkenirajKarticuCommand.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Commands\\MakeSkenirajKarticuCommand.cs",
@@ -173,12 +204,11 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Commands\\MakeSkenirajKarticuCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:39:53.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T15:39:53.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "UplateViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\ViewModels\\UplateViewModel.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\ViewModels\\UplateViewModel.cs",
@@ -186,12 +216,11 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\ViewModels\\UplateViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:21:54.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T15:21:54.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "UnosNovogKorisnikaViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\ViewModels\\UnosNovogKorisnikaViewModel.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\ViewModels\\UnosNovogKorisnikaViewModel.cs",
@@ -199,12 +228,11 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\ViewModels\\UnosNovogKorisnikaViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:21:33.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T15:21:33.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\ViewModels\\MainViewModel.cs",
@@ -212,12 +240,11 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\ViewModels\\MainViewModel.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAewBwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:30:19.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T13:30:19.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "NavigationStore.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Stores\\NavigationStore.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Stores\\NavigationStore.cs",
@@ -225,25 +252,24 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Stores\\NavigationStore.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAMwBwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T13:24:19.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T13:24:19.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "SkenirajKarticuViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\ViewModels\\SkenirajKarticuViewModel.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\ViewModels\\SkenirajKarticuViewModel.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\ViewModels\\SkenirajKarticuViewModel.cs",
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\ViewModels\\SkenirajKarticuViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvzgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T13:17:46.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "VIewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\ViewModels\\VIewModelBase.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\ViewModels\\VIewModelBase.cs",
@@ -251,36 +277,33 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\ViewModels\\VIewModelBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T16:25:42.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T16:25:42.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "UplateView.xaml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Views\\UplateView.xaml",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Views\\UplateView.xaml",
               "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Views\\UplateView.xaml",
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Views\\UplateView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-10T16:21:48.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T16:21:48.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "UnosNovogKorisnikaView.xaml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Views\\UnosNovogKorisnikaView.xaml",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Views\\UnosNovogKorisnikaView.xaml",
               "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Views\\UnosNovogKorisnikaView.xaml",
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Views\\UnosNovogKorisnikaView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-10T14:37:39.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T14:37:39.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Models\\Enums.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Models\\Enums.cs",
@@ -288,51 +311,50 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Models\\Enums.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T21:56:23.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T21:56:23.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 0,
               "Title": "Uplata.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Models\\Uplata.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Models\\Uplata.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Models\\Uplata.cs",
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Models\\Uplata.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAEwBoAAABDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T21:55:36.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "ClanstvoListingViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\ViewModels\\ClanstvoListingViewModel.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\ViewModels\\ClanstvoListingViewModel.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\ViewModels\\ClanstvoListingViewModel.cs",
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\ViewModels\\ClanstvoListingViewModel.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAywAoAAAAuAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAywAwAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T21:52:03.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
               "Title": "ClanstvoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\ViewModels\\ClanstvoViewModel.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\ViewModels\\ClanstvoViewModel.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\ViewModels\\ClanstvoViewModel.cs",
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\ViewModels\\ClanstvoViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T21:49:17.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\App.xaml.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\App.xaml.cs",
@@ -340,12 +362,11 @@
               "RelativeToolTip": "Teretana-Radnik\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T21:43:09.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T21:43:09.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "TextBlockStyle.xaml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\Theme\\TextBlockStyle.xaml",
               "RelativeDocumentMoniker": "Teretana-Radnik\\Theme\\TextBlockStyle.xaml",
@@ -357,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 6,
               "Title": "SkenirajKarticuView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Views\\SkenirajKarticuView.xaml.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Views\\SkenirajKarticuView.xaml.cs",
@@ -370,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "SkenirajKarticuView.xaml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Views\\SkenirajKarticuView.xaml",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Views\\SkenirajKarticuView.xaml",
@@ -382,20 +403,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 3,
               "Title": "Clanstvo.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Models\\Clanstvo.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Models\\Clanstvo.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Models\\Clanstvo.cs",
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Models\\Clanstvo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T20:09:08.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 10,
               "Title": "Paket.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Models\\Paket.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Models\\Paket.cs",
@@ -403,25 +424,24 @@
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Models\\Paket.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T20:02:54.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T20:02:54.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 2,
               "Title": "Clan.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Models\\Clan.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MVVM\\Models\\Clan.cs",
               "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MVVM\\Models\\Clan.cs",
               "RelativeToolTip": "Teretana-Radnik\\MVVM\\Models\\Clan.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwA4AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T19:18:28.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\App.xaml",
               "RelativeDocumentMoniker": "Teretana-Radnik\\App.xaml",
@@ -433,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "MenuButtonTheme.xaml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\Theme\\MenuButtonTheme.xaml",
               "RelativeDocumentMoniker": "Teretana-Radnik\\Theme\\MenuButtonTheme.xaml",
@@ -445,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Teretana-Radnik.csproj",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\Teretana-Radnik.csproj",
               "RelativeDocumentMoniker": "Teretana-Radnik\\Teretana-Radnik.csproj",
@@ -457,19 +477,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MainWindow.xaml",
               "RelativeToolTip": "Teretana-Radnik\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-10T13:48:00.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T13:48:00.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Korisnik\\Documents\\teretana projekat\\desktop\\Teretana-Radnik\\Teretana-Radnik\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Teretana-Radnik\\MainWindow.xaml.cs",
@@ -477,8 +496,7 @@
               "RelativeToolTip": "Teretana-Radnik\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:02:50.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:02:50.983Z"
             }
           ]
         }

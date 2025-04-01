@@ -24,21 +24,21 @@
         </StackPanel>
         <Button  Grid.Column="1" Grid.Row="0" Margin="10 23.99 0 0" Content="Pronadji clana" FontSize="30"/>
         <StackPanel Margin="0 50 0 0" Grid.Row="1" Grid.Column="0">
-            <TextBlock>Ime:</TextBlock> 
-            <TextBox IsEnabled="False"></TextBox>
+            <TextBlock>Ime:</TextBlock>
+            <TextBox IsEnabled="False" Text="{Binding TrenutniClanIme,UpdateSourceTrigger=PropertyChanged}"/>
             <TextBlock Margin="0 20 0 0">Prezime:</TextBlock>
             <TextBox IsEnabled="False"></TextBox>
         </StackPanel>
         <StackPanel Margin="10 50 0 0" Grid.Row="1" Grid.Column="1">
             <TextBlock>Aktivan paket :</TextBlock>
-            <TextBox IsEnabled="False"></TextBox>
+            <TextBox Text="{Binding TrenutniClanPrezime,UpdateSourceTrigger=PropertyChanged}" IsEnabled="False"></TextBox>
         </StackPanel>
 
 
 
         <StackPanel HorizontalAlignment="Left" Margin="0 50 0 0" Grid.Row="2"  VerticalAlignment="Top">
             <TextBlock>Istorija uplata:</TextBlock>
-            <ListView ItemsSource="{Binding List}">
+            <ListView ItemsSource="{Binding TrenutniClanClanstva}">
                 <ListView.ItemContainerStyle>
                     <Style TargetType="ListViewItem">
                         <Setter Property="HorizontalAlignment" Value="Stretch" />
@@ -56,7 +56,7 @@
                             </GridViewColumn.HeaderTemplate>
                             <GridViewColumn.CellTemplate>
                                 <DataTemplate>
-                                    <TextBlock Text="{Binding DatumUplate}" Foreground="#22202f" Padding="0 0 20 0" FontSize="14" />
+                                    <TextBlock Text="{Binding Uplata.Datum}" Foreground="#22202f" Padding="0 0 20 0" FontSize="14" />
                                 </DataTemplate>
                             </GridViewColumn.CellTemplate>
                         </GridViewColumn>

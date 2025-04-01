@@ -29,3 +29,6 @@ C:\Users\Korisnik\Documents\teretana projekat\desktop\Teretana-Radnik\Teretana-R
 C:\Users\Korisnik\Documents\teretana projekat\desktop\Teretana-Radnik\Teretana-Radnik\obj\Debug\net8.0-windows\MVVM\Views\UnosNovogKorisnikaView.baml
 C:\Users\Korisnik\Documents\teretana projekat\desktop\Teretana-Radnik\Teretana-Radnik\obj\Debug\net8.0-windows\MVVM\Views\UplateView.g.cs
 C:\Users\Korisnik\Documents\teretana projekat\desktop\Teretana-Radnik\Teretana-Radnik\obj\Debug\net8.0-windows\MVVM\Views\UplateView.baml
+C:\Users\Korisnik\Documents\teretana projekat\desktop\Teretana-Radnik\Teretana-Radnik\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Korisnik\Documents\teretana projekat\desktop\Teretana-Radnik\Teretana-Radnik\obj\Debug\net8.0-windows\Teretana-Radnik.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\teretana projekat\desktop\Teretana-Radnik\Teretana-Radnik\obj\Debug\net8.0-windows\Teretana.BF235134.Up2Date

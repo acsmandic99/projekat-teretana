@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teretana-Radnik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89886b34d50baa15975be43d6117ac07986c2256")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dd0f88ffb46dfe451c3d172cc4c21748f38c024")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teretana-Radnik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teretana-Radnik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

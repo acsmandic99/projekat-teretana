@@ -17,8 +17,6 @@ namespace Teretana_Radnik.MVVM.ViewModels
         public ClanstvoListingViewModel()
         {
             _list = new ObservableCollection<ClanstvoViewModel>();
-            _list.Add(new ClanstvoViewModel(new Clanstvo(new Clan("Milos", "Mandic"), 1, new Paket("Full body", 1000, "opis", 1), new Uplata(DateTime.Now, NacinUplate.KARTICA))));
-            _list.Add(new ClanstvoViewModel(new Clanstvo(new Clan("Milos", "Mandic"), 1, new Paket("Jutro", 1000, "opis", 1), new Uplata(DateTime.Now.AddDays(2), NacinUplate.KARTICA))));
         }
     }
 }

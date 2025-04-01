@@ -11,7 +11,20 @@ namespace Teretana_Radnik.MVVM.Models
         private string ime;
         private string prezime;
         private int id;
+        public DateTime DatUclanjenja { get; set; }
+        private IEnumerable<Clanstvo> clanstva;
+        private IEnumerable<Trening> treninzi;
 
+        public IEnumerable<Clanstvo> Clanstva
+        {
+            get => clanstva;
+            set => clanstva = value;
+        }
+        public IEnumerable<Trening> Treninzi
+        {
+            get => treninzi;
+            set => treninzi = value;
+        }
         public Clan(string ime, string prezime)
         {
             this.ime = ime;
